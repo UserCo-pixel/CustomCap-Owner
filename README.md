@@ -1,2 +1,2 @@
-# CustomCap-Owner
+# Custom-Cap
 The Custom Cap Owner
